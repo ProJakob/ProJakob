@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProJakob
 - 👀 I’m interested in doing things in Java.
-- 🌱 I’m currently learning more about the Java language.
+- 🌱 I’m currently Making a PVP Client!
 - 📫 How to reach me: Just message me on Discord: Jakob#0408
 
 <!---
